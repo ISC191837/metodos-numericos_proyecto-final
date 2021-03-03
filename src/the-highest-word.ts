@@ -24,3 +24,5 @@ export const theHighestWord = (sentence: string) => {
     return 0
   })[0]
 }
+
+console.log(theHighestWord("a z"))

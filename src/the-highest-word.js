@@ -28,3 +28,4 @@ exports.theHighestWord = function (sentence) {
         return 0;
     })[0];
 };
+console.log(exports.theHighestWord("a z"));
